@@ -8,3 +8,4 @@ function sumaArregloNumeros(arreglo) {
     return suma;
   }
   console.log(sumaArregloNumeros([1,2,3]));//se imprime 6
+  

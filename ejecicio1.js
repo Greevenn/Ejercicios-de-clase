@@ -6,3 +6,4 @@ function sumar (a,b){
 }
 
 console.log(sumar(10,20));//mandamos a imprimir
+

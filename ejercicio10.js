@@ -4,3 +4,4 @@ function positivoOnegativo(booleano){
   
 }
 console.log(positivoOnegativo(-3));//repuesta false
+

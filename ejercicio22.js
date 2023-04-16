@@ -7,3 +7,4 @@ function calcularCuboODoble(numero) {
     }
   }
   console.log(calcularCuboODoble(-2)); // -8 resultado
+  

@@ -5,5 +5,6 @@ function convertirAMayusculas(cadena) {
   }
   console.log(convertirAMayusculas("Hola mundo")); // "HOLA MUNDO"
   console.log(convertirAMayusculas("Este ")); // "ESTE "
+  
 
     

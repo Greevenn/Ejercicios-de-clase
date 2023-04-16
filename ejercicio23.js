@@ -8,3 +8,4 @@ function invertirCadena(cadena) {
   }
 
   console.log(invertirCadena("hola")); //resultado aloh
+  

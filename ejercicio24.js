@@ -9,5 +9,6 @@ function divisor(a,b){
 }
 
 //mandamos a mostrar con parametros a la funcion.
+
 console.log(divisor(10,20));
 

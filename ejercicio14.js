@@ -11,3 +11,4 @@ function sonAnagramas(cadena1, cadena2) {
   }
   console.log(sonAnagramas("asdf", "fdsaj")); //repuesta falsa
   
+  

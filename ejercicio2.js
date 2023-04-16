@@ -3,3 +3,5 @@
     return cadena.length;//utilizamos el metodo length para saber la longitu
   }
  console.log(longitud("hola_amigos"));//se imprime 11
+
+ 

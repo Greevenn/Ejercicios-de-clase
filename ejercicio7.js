@@ -10,3 +10,4 @@ function numeroMayor(num1, num2) {
     }
   }
   console.log(numeroMayor(1,2)); //se imprime
+  
