@@ -10,3 +10,4 @@ function sumatodo(arreglo){
 console.log(sumatodo([1,1,1,1]));// tienen que dar 4
 
 
+
